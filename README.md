@@ -31,7 +31,7 @@ The analysis of the election show that:
     
     There were some glitiches installing Python3 and patches. Writing the election analysis script code in Visual Studio at some instances wouldn't work
     due to indentation inconsistency. My code counldn't fire up when I try to determine winning vote count, winning percentage, and winning candidate
-    because there weren't defined or initilized.
+    because there weren't defined or initilized. Formatting the percentage decimal took me a bit of time. 
     
     ## Challenge Summary 
     Python glitch was sorted out with extra research source shared by AskBCS Learning Assistant. I debugged to resolve the indentation issues. 
