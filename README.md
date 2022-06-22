@@ -35,7 +35,7 @@ The analysis of the election show that:
     
     ## Challenge Summary 
     Python glitch was sorted out with extra research source shared by AskBCS Learning Assistant. I debugged to resolve the indentation issues. 
-    I had received help from AskBCS with similar value initialization on previous project so I referenced that, and I worked. 
+    I had received help from AskBCS with similar value initialization on previous project so I referenced that, and it worked.
     
    
 
